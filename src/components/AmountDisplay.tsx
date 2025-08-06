@@ -12,3 +12,4 @@ export default function AmountDisplay({label, amount} : AmountDisplayProps)  {
     </p>
   )
 }
+//
